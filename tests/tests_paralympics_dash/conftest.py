@@ -17,3 +17,4 @@ def pytest_setup_options():
     else:
         options.add_argument("start-maximized")
     return options
+
